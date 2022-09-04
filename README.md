@@ -1,7 +1,7 @@
 
-Hello folks 👋 | Olá pessoal 👋
+Hello folks 👋 🤓 🖖| Olá pessoal 👋 🤓 🖖
 --|--
-Welcome to my GitHub | Sejam bem vindos ao meu GitHub
+Welcome to my GitHub :octocat:| Sejam bem vindos ao meu GitHub :octocat:
 
 <!--
 **WillianROM/WillianROM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
