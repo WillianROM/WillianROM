@@ -3,6 +3,8 @@ Hello folks 👋 🤓 🖖| Olá pessoal 👋 🤓 🖖
 --|--
 Welcome to my GitHub :octocat:| Sejam bem vindos ao meu GitHub :octocat:
 
+![Willian - PetTalking com barba](https://user-images.githubusercontent.com/109000079/189001589-697cef54-2b82-4510-9ae8-e8ab8daeabb6.png)
+
 <!--
 **WillianROM/WillianROM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
