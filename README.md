@@ -1,7 +1,17 @@
 
-Hello folks 👋 🤓 🖖| Olá pessoal 👋 🤓 🖖
+Hello folks 👋 🤓 🖖 | Olá pessoal 👋 🤓 🖖 :brazil: 
 --|--
 Welcome to my GitHub :octocat:| Sejam bem vindos ao meu GitHub :octocat:
+
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩<br>
+🟩🟩🟩🟩🟩🟩🟨🟨🟩🟩🟩🟩🟩🟩<br>
+🟩🟩🟩🟩🟩🟨🟦🟦🟨🟩🟩🟩🟩🟩<br>
+🟩🟩🟩🟩🟨🟦⬜⬜🟦🟨🟩🟩🟩🟩<br>
+🟩🟩🟩🟨🟨⬜🟦🟦⬜🟨🟨🟩🟩🟩<br>
+🟩🟩🟩🟩🟨🟦🟦🟦🟦🟨🟩🟩🟩🟩<br>
+🟩🟩🟩🟩🟩🟨🟦🟦🟨🟩🟩🟩🟩🟩<br>
+🟩🟩🟩🟩🟩🟩🟨🟨🟩🟩🟩🟩🟩🟩<br>
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩<br>
 
 ![Willian - PetTalking com barba](https://user-images.githubusercontent.com/109000079/189001589-697cef54-2b82-4510-9ae8-e8ab8daeabb6.png)
 
