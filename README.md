@@ -1,21 +1,14 @@
 
 Hello folks 👋 🤓 🖖 | Olá pessoal 👋 🤓 🖖 :brazil: 
 --|--
-Welcome to my GitHub :octocat:| Sejam bem vindos ao meu GitHub :octocat:
+:octocat: Welcome to my GitHub| :octocat: Sejam bem vindos ao meu GitHub
+🌎🇧🇷💚💛 I'm Brazilian , how about you? Where are you from? | 🌎🇧🇷💚💛 Eu sou Brasileiro, e você? Da onde você é?
+🌱 I’m currently learning Quality Software | 🌱 Atualmente estou aprendendo qualidade de software
+🤓 🖖  I'm nerd | 🤓 🖖 Eu sou nerd
+🖥️💻🖱️ i'm like technology | 🖥️💻🖱️  Eu gosto de tecnologia
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩<br>
-🟩🟩🟩🟩🟩🟩🟨🟨🟩🟩🟩🟩🟩🟩<br>
-🟩🟩🟩🟩🟩🟨🟨🟨🟨🟩🟩🟩🟩🟩<br>
-🟩🟩🟩🟩🟨🟨🟦🟦🟨🟨🟩🟩🟩🟩<br>
-🟩🟩🟩🟨🟨🟦⬜⬜🟦🟨🟨🟩🟩🟩<br>
-🟩🟩🟨🟨🟨⬜🟦🟦⬜🟨🟨🟨🟩🟩<br>
-🟩🟩🟩🟨🟨🟦🟦🟦🟦🟨🟨🟩🟩🟩<br>
-🟩🟩🟩🟩🟨🟨🟦🟦🟨🟨🟩🟩🟩🟩<br>
-🟩🟩🟩🟩🟩🟨🟨🟨🟨🟩🟩🟩🟩🟩<br>
-🟩🟩🟩🟩🟩🟩🟨🟨🟩🟩🟩🟩🟩🟩<br>
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩<br>
 
-![Willian - PetTalking com barba](https://user-images.githubusercontent.com/109000079/189001589-697cef54-2b82-4510-9ae8-e8ab8daeabb6.png)
+
 
 <!--
 **WillianROM/WillianROM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
