@@ -5,7 +5,7 @@ Hello folks 👋 🤓 🖖 | Olá pessoal 👋 🤓 🖖 :brazil:
 🌎🇧🇷💚💛 I'm Brazilian , how about you? Where are you from? | 🌎🇧🇷💚💛 Eu sou Brasileiro, e você? Da onde você é?
 🌱 I’m currently learning Quality Software | 🌱 Atualmente estou aprendendo qualidade de software
 🤓 🖖  I'm nerd | 🤓 🖖 Eu sou nerd
-🖥️💻🖱️ i'm like technology | 🖥️💻🖱️  Eu gosto de tecnologia
+🖥️💻🖱️ I like technology | 🖥️💻🖱️  Eu gosto de tecnologia
 
 
 
