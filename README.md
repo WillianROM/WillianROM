@@ -29,13 +29,14 @@ Here are some ideas to get you started:
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=willianROM" height="150" alt="stats graph"  />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=willianROM" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fvba%2F&psig=AOvVaw3X-zpEbnccCyKeIVS6im0X&ust=1665793714669000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPC22a673voCFQAAAAAdAAAAABAE" height="30" width="42" alt="vba logo"  />
+  <img src="https://github.com/WillianROM/WillianROM/blob/main/.github/imagem/vba.png" height="30" width="42" alt="vba logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/selenium/selenium-original.svg" height="30" width="42" alt="selenium logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -43,8 +44,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="42" alt="npm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
