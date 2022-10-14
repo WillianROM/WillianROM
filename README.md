@@ -30,9 +30,11 @@ Here are some ideas to get you started:
 
 <div align="left">
     <a href="https://github.com/willianROM">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=willianROM&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianROM&layout=compact&langs_count=7&theme=onedark" />
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+  <img height="230" width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=willianROM&show_icons=true&theme=onedark"/>
+  
+  <img height="230" width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianROM&layout=compact&langs_count=10&theme=onedark" />
+  
+ 
 </div>
  <br>
 </div>
