@@ -61,7 +61,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 
-![Snake animation](https://github.com/willianROM/willianROM/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/WillianROM/WillianROM/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
