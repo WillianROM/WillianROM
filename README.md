@@ -28,16 +28,14 @@ Here are some ideas to get you started:
 ###
 
 
-
 <div align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=willianROM&count_private=true&show_icons=true=true&theme=onedark" height="150"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=false&username=willianROM" height="150" alt="languages graph"  />
+    <a href="https://github.com/willianROM">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=willianROM&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianROM&layout=compact&langs_count=7&theme=onedark" />
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
-
-###
-
-
+ <br>
+</div>
 
 <div align="left">
   <img src="https://github.com/WillianROM/WillianROM/blob/main/.github/imagem/vba.png" height="30" width="42" alt="vba logo"  />
@@ -63,4 +61,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 
+![Snake animation](https://github.com/willianROM/willianROM/blob/output/github-contribution-grid-snake.svg)
+
 </div>
+
+
