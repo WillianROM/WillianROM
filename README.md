@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-    <a href="https://github.com/willianROM">
-  <img height="200" width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=willianROM&show_icons=true&theme=onedark"/>
+    <a href="https://github.com/WillianROM">
+  <img height="200" width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=WillianROM&show_icons=true&theme=onedark"/>
   
   <img height="200" width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianROM&layout=compact&langs_count=10&theme=onedark" />
   
@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://github.com/WillianROM/WillianROM/blob/main/.github/imagem/vba.png" height="30" width="42" alt="vba logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" height="30" width="42" alt="python logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/selenium/selenium-original.svg" height="30" width="42" alt="selenium logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original-wordmark.svg" height="30" width="42" alt="kotlin logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/willianrom/" target="_blank">
+  <a href="https://www.linkedin.com/in/WillianROM/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCFOH98W1eYYtNmVx4qo3wLQ" target="_blank">
