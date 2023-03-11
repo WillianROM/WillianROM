@@ -3,7 +3,8 @@ Hello folks 👋 🤓 🖖 | Olá pessoal 👋 🤓 🖖 :brazil:
 --|--
 :octocat: Welcome to my GitHub| :octocat: Sejam bem vindos ao meu GitHub
 🌎🇧🇷💚💛 I'm Brazilian , how about you? Where are you from? | 🌎🇧🇷💚💛 Eu sou Brasileiro, e você? Da onde você é?
-🌱 I’m currently learning Quality Software | 🌱 Atualmente estou aprendendo qualidade de software
+🔭 I am currently working as an RPA Developer for continuous improvement | 🔭 Atualmente estou trabalhando como Desenvolvedor RPA para melhorias contínuas
+:electron: I am the creator of chromedriverManager for VBA | :electron: Sou o criador do chromedriverManager para VBA
 🤓 🖖  I'm nerd | 🤓 🖖 Eu sou nerd
 🖥️💻🖱️ I like technology | 🖥️💻🖱️  Eu gosto de tecnologia
 
