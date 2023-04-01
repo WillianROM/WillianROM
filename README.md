@@ -1,7 +1,7 @@
 <table>
   <thead style='background-color: #ADD8E6'>
     <tr>
-      <th><em>Hello folks 👋 🤓 🖖</em></th>
+      <th><em>Hello everyone 👋 🤓 🖖</em></th>
       <th>Olá pessoal 👋 🤓 🖖 🇧🇷</th>
     </tr>
   </thead>
