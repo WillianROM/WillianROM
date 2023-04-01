@@ -44,6 +44,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/WillianROM/WillianROM/blob/main/.github/imagem/vba.png" height="30" width="42" alt="vba logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" height="30" width="42" alt="python logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/selenium/selenium-original.svg" height="30" width="42" alt="selenium logo"  />
+  <img src="https://img.jsdelivr.com/github.com/cypress-io.png" height="30" width="42" alt="cypress logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original-wordmark.svg" height="30" width="42" alt="kotlin logo"  />
