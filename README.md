@@ -62,9 +62,11 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/WillianROM/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  &nbsp;&nbsp; 
   <a href="https://www.youtube.com/channel/UCFOH98W1eYYtNmVx4qo3wLQ" target="_blank">
         <img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" height="35"  target="_blank">
   </a>
+  &nbsp;&nbsp;
   <a href="https://medium.com/@willrafamelo" target="_blank">
         <img src="https://img.shields.io/static/v1?message=medium&logo=medium&label=&color=000304&logoColor=white&labelColor=&style=for-the-badge" height="35"  target="_blank">
   </a>
