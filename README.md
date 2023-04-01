@@ -1,14 +1,40 @@
-
-Hello folks 👋 🤓 🖖 | Olá pessoal 👋 🤓 🖖 :brazil: 
---|--
-:octocat: Welcome to my GitHub| :octocat: Sejam bem vindos ao meu GitHub
-🌎🇧🇷💚💛 I'm Brazilian , how about you? Where are you from? | 🌎🇧🇷💚💛 Eu sou Brasileiro, e você? Da onde você é?
-🔭 I am currently working as an RPA Developer for continuous improvement | 🔭 Atualmente estou trabalhando como Desenvolvedor RPA para melhorias contínuas
-:electron: I am the creator of chromedriverManager for VBA | :electron: Sou o criador do chromedriverManager para VBA
-🤓 🖖  I'm nerd | 🤓 🖖 Eu sou nerd
-🖥️💻🖱️ I like technology | 🖥️💻🖱️  Eu gosto de tecnologia
-
-
+<table>
+  <thead style='background-color: #ADD8E6'>
+    <tr>
+      <th><em>Hello folks 👋 🤓 🖖</em></th>
+      <th>Olá pessoal 👋 🤓 🖖 🇧🇷</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>:octocat: <em>Welcome to my GitHub</em></td>
+      <td>:octocat: Sejam bem vindos ao meu GitHub</td>
+    </tr>
+    <tr>
+      <td>🌎🇧🇷💚💛 <em>I'm Brazilian, how about you? Where are you from?</em></td>
+      <td>🌎🇧🇷💚💛 Eu sou Brasileiro, e você? Da onde você é?</td>
+    </tr>
+    <tr>
+      <td>🔭 <em>I am currently working as an RPA Developer for continuous improvement</em></td>
+      <td>🔭 Atualmente estou trabalhando como Desenvolvedor RPA para melhorias contínuas</td>
+    </tr>
+    <tr>
+      <td>:electron: <em>I am the creator of chromedriverManager for VBA:</em></td>
+      <td>:electron: Sou o criador do chromedriverManager para VBA:</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: center">https://github.com/WillianROM/VBA-ChromeDriverManager-WebDriverManager</td>
+    </tr>
+    <tr>
+      <td>🤓 🖖 <em>I'm nerd</em></td>
+      <td>🤓 🖖 Eu sou nerd</td>
+    </tr>
+    <tr>
+      <td>🖥️💻🖱️ <em>I love technologies</em> 💖</td>
+      <td>🖥️💻🖱️ Eu amo as tecnologias 💖</td>
+    </tr>
+  </tbody>
+</table>
 
 
 <!--
