@@ -68,13 +68,13 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://github.com/WillianROM/WillianROM/blob/main/.github/imagem/vba.png" height="30" width="30" alt="vba logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original-wordmark.svg" height="30" width="42" alt="kotlin logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" height="30" width="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="javascript logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="30" width="30" alt="kotlin logo"  />
 </div>
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/selenium/selenium-original.svg" height="30" width="42" alt="selenium logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/selenium/selenium-original.svg" height="30" width="30" alt="selenium logo"  />
   <img src="https://pbs.twimg.com/profile_images/1318604600677527552/stk8sqYZ_400x400.png" height="30" width="30" alt="Playwright logo"  />
   <img src="https://img.jsdelivr.com/github.com/cypress-io.png" height="30" width="30" alt="cypress logo"  />
 </div>
@@ -83,15 +83,15 @@ Here are some ideas to get you started:
   <img src="https://smartbridge.com/automation/wp-content/uploads/sites/5/Power-Automate-22-400x128.png" height="30" width="80" alt="Power Automate Desktop logo"  />
 </div>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="30" alt="css3 logo"  />
 </div>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jira/jira-original-wordmark.svg" height="30" width="42" alt="jira logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/markdown/markdown-original.svg" height="30" width="42" alt="markdown logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="30" alt="github logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jira/jira-original-wordmark.svg" height="30" width="30" alt="jira logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/markdown/markdown-original.svg" height="30" width="30" alt="markdown logo"  />
 </div>
 
 ###
