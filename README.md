@@ -83,6 +83,10 @@ Here are some ideas to get you started:
   <img src="https://smartbridge.com/automation/wp-content/uploads/sites/5/Power-Automate-22-400x128.png" height="30" width="80" alt="Power Automate Desktop logo"  />
 </div>
 <div align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="30" width="30" alt="Postman logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/400px-Karate_software_logo.svg.png" height="30" width="30" alt="Karate DSL logo"  />
+</div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="30" alt="css3 logo"  />
 </div>
